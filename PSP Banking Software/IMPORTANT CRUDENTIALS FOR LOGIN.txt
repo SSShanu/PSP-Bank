@@ -1,0 +1,12 @@
+The following details will be required to operate with software :
+
+For Branch Manager  :    Branch code ==  40041
+		      Password     ==   2526
+
+For Employee           :     Username    ==   Shanu
+		      Password     ==   9436
+
+
+
+ ** Different Employees have different usernames which can be checked by
+     log-in as Branch manager and seeing Employee database.
